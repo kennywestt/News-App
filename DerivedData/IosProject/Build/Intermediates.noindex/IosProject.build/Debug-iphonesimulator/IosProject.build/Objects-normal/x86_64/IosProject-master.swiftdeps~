@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "002f58a89bc17971a0aa2b65a7556096"
+build_time: [1687244466, 678961000]
+inputs:
+  "/Users/gyeong-geun/Desktop/IosProject/IosProject/ViewController.swift": [1687242943, 739142025]
+  "/Users/gyeong-geun/Desktop/IosProject/IosProject/AppDelegate.swift": [1687230844, 709611605]
+  "/Users/gyeong-geun/Desktop/IosProject/IosProject/NewsTableViewCell.swift": [1687238859, 43486049]
+  "/Users/gyeong-geun/Desktop/IosProject/IosProject/SceneDelegate.swift": [1687230844, 714735423]
+  "/Users/gyeong-geun/Desktop/IosProject/IosProject/APICaller.swift": [1687244466, 442931686]
